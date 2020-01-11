@@ -1,0 +1,6 @@
+.package-info-card-container{
+    width: 200px;
+    height: 200px;
+    box-shadow: 8px 8px 10px -5px #4b4343;
+    border: 1px solid #4b4343;
+}

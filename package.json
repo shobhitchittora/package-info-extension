@@ -1,0 +1,18 @@
+{
+  "name": "ext-package-details",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@storybook/html": "^5.2.8",
+    "babel-loader": "^8.0.6"
+  }
+}
